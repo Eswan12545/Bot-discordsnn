@@ -1,0 +1,32 @@
+{
+  "panel": {
+    "title": "<:emoji_92:1317327882179186748> Ticket Center",
+    "description": "Please select the ticket you need below. Our team will be with you shortly.\n\n**Super Nova Shop:** Need help? Select the appropriate ticket below for purchases, mediation, or support. Our staff will respond shortly.\n\n<:Bb:1317422045226729564> **Shop Ticket** — Buy products or place an order.\n<:med:1317319227476017264> **Ticket Mediator** — Secure middleman for trades.\n<:bot:1317341734845546538> **Ticket Support** — Help with issues and questions.\n<:aha:1317319223093100555> **Ticket Apply** — Apply to join the team.",
+    "color": "#2b2d31",
+    "imageUrl": "https://i.imgur.com/YOUR_BANNER_IMAGE.png",
+    "footer": "Please only open one ticket at a time"
+  },
+  "welcome": {
+    "title": "Welcome to {guild}! <a:Hearts:1317319217141514321>",
+    "description": "We're glad to have you here, {user}!\n\n<:Bb:1317422045226729564> **Super Nova Shop** is your one-stop spot for great deals — take a moment to look around.\n<:bot:1317341734845546538> Check out our info channels to see how everything works.\n<:emoji_92:1317327882179186748> Need something? Open a ticket any time and our team will help you out.\n\nYou're member **#{memberCount}** — enjoy your stay!",
+    "color": "#2b2d31",
+    "imageUrl": "https://i.imgur.com/YOUR_BANNER_IMAGE.png"
+  },
+  "emojis": {
+    "shop": "<:Bb:1317422045226729564>",
+    "mediator": "<:med:1317319227476017264>",
+    "support": "<:bot:1317341734845546538>",
+    "apply": "<:aha:1317319223093100555>",
+    "addUser": "<a:Hearts:1317319217141514321>",
+    "removeUser": "<:emoji_92:1317327882179186748>",
+    "rename": "<:Bb:1317422045226729564>",
+    "close": "<:bot:1317341734845546538>",
+    "verified": "<a:Hearts:1317319217141514321>"
+  },
+  "privateStore": {
+    "title": "<a:tbs_letter_A:1317949715383582761> Private Store Menu",
+    "description": "» Welcome to the **{guild}** Team's Private Store Creator! <a:qfzezeef:1317492452537401404>\n\nCreate or manage your exclusive store channel with the options below:\n\n<a:discord:1317320586804068393> **1 Week Store : 150K Credits**\n<:emoji_92:1317327882179186748> Full control over your private channel for 7 days.\n\n<a:discord:1317320586804068393> **1 Month Store : 500K Credits**\n<:emoji_92:1317327882179186748> Enjoy 30 days of uninterrupted store management.\n\n<a:qfzezeef:1317492452537401404> **Renew Store:**\n<:emoji_92:1317327882179186748> Extend an existing store's duration.\n<:emoji_92:1317327882179186748> Enter your store's channel ID and choose a new duration.\n<:emoji_92:1317327882179186748> Receive a reminder 24 hours before expiration.\n\n<a:tbs_letter_A:1317949715383582761> **How it Works:**\n<:emoji_92:1317327882179186748> Select an option, follow the prompts, and complete the payment.\n<:emoji_92:1317327882179186748> Stores are created under the designated category with tailored permissions.\n<:emoji_92:1317327882179186748> You'll receive a DM with details upon purchase or renewal.",
+    "color": "#2b2d31",
+    "footer": "Signed, the {guild} Team"
+  }
+}
